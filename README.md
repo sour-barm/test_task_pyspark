@@ -9,6 +9,7 @@
 ## Багфиксы 
 Если используете fish то используйте 
 >source env/bin/activate
+
 Если на сервере проблема с версиями Java, то
 скачайте JDK-8 на [link](http://snapshot.debian.org/package/openjdk-8/8u322-b06-1%7Edeb9u1/)
 Поставьте через dpkg -i и запустите 
